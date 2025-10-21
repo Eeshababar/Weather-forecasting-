@@ -15,9 +15,8 @@ Includes robust CSV header detection, rich time-features (lags, rolling stats, E
 
 
 ## Repository Contents
-- notebooks/Autoregression_and_ARIMA.ipynb
-  ACF/PACF, ADF/KPSS, STL, seasonal decomposition, AR & SARIMAX exploration, and walk-forward evaluation.
-- notebooks/Weather_Forecasting_using_Time_series_analysis.ipynb
-  Focused on stationarity checks (ADF/KPSS) and STL decomposition with basic time-aware splits and feature creation.
+- notebooks/Weather_Forecasting_using_Time_series_analysis.ipynb:  Focused on stationarity checks (ADF/KPSS) and STL decomposition
+- notebooks/Autoregression_and_ARIMA.ipynb:  AR & SARIMAX exploration, and walk-forward evaluation
+
 
 
